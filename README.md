@@ -23,7 +23,7 @@ If github does now render the file internally, please go to https://nbviewer.jup
 
 - Added the new excel sheet I used to add the country codes which can be used to make the map.
 
-![alt text]()
+![](map.jpg)
 
 -----
 
