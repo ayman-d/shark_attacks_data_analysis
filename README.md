@@ -14,3 +14,11 @@ Viewing the file
 To view the file kindly click on the the jupyter notebook file in the reporsitory, which the file with the .ipynb extension
 
 If github does now render the file internally, please go to https://nbviewer.jupyter.org/ and in the location bar in the main page paste the address for the jupyter notebook: https://github.com/aymand1982/shark_attacks_data_analysis/blob/master/shark_attacks.ipynb
+
+-----
+
+18/10/2019
+
+- Added an interactive world map to the file that shows the number of shark attacks pertaining to country that is hovered over with mouse, map can also be zoomed in and out.
+
+- Added the new excel sheet I used to add the country codes which can be used to make the map.
