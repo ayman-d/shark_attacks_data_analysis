@@ -22,3 +22,12 @@ If github does now render the file internally, please go to https://nbviewer.jup
 - Added an interactive world map to the file that shows the number of shark attacks pertaining to country that is hovered over with mouse, map can also be zoomed in and out.
 
 - Added the new excel sheet I used to add the country codes which can be used to make the map.
+
+-----
+
+Project Files:
+
+- shark_attacks.ipynb: main jupyter notebook project file.
+- sharks.xlsx: this is the file that contains the original data set I used for this project.
+- sharks_adjusted.xlsx: this is the file I used to adjust the 'Activity' column and group them all under 6 categories.
+- new_map_df.xlsx: this is the file where I extracted the data of countries and the number of attacks in each country, I then added the country codes so that this data frame can be used to make the interactive map.
